@@ -1,0 +1,50 @@
+html {
+    color: rgb(48, 136, 238);
+    text-shadow: 2px 2px #rgb(0 0 0 / 40%);
+    background-color: hsl(197, 50%, 34%);
+    font-family: 'Montserrat', sans-serif;
+    background-image: url('sky-background.jpg');
+    /*background-size: 100% auto;*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    overflow: scroll;
+    margin-top: 20%;
+  }
+
+
+a {
+    color: rgb(48, 136, 238);;
+}
+
+#mainHeading {
+    text-align: center;
+    font-size: 3em;
+    /*text-shadow: 2px 2px 8px rgb(0 0 0 / 40%);*/
+    font-weight: 400;
+
+}
+
+#menu {
+    font-size: 1.5em;
+    text-align: center;
+}
+
+#button {
+    text-align: center;
+}
+
+#learnMore {
+    font-size: 1.5em;
+    color: rgb(48, 136, 238);;
+    align-self: center;
+    text-align: center;
+    border-color: white;
+    border-style: solid;
+    border-width: 2px;
+    font-weight: 700;
+    padding: 10px 63px;
+    text-transform: uppercase;
+    background-color: transparent;
+    font-weight: 400;
+}
