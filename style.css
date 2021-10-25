@@ -14,8 +14,7 @@ html {
 
 
 a {
-    color: rgb(48, 136, 238);;
-}
+    color: rgb(11, 15, 13);}
 
 #mainHeading {
     text-align: center;
@@ -36,7 +35,7 @@ a {
 
 #learnMore {
     font-size: 1.5em;
-    color: rgb(48, 136, 238);;
+    color: rgb(11, 15, 13);
     align-self: center;
     text-align: center;
     border-color: white;
