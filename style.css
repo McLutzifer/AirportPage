@@ -4,7 +4,6 @@ html {
     background-color: hsl(197, 50%, 34%);
     font-family: 'Montserrat', sans-serif;
     background-image: url('sky-background.jpg');
-    /*background-size: 100% auto;*/
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
