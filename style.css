@@ -1,10 +1,13 @@
 html {
-    /*color: rgb(11, 15, 13);*/
+    /*color: rgb(11, 15, 13);
+    had to change to color to black since I couldn't get rid of
+    'Contradt Errors' on wave.webaim.org
+    Still leave the original color als comment for later uses
+    since it looked way better*/
     color: black;
     text-shadow: 2px 2px rgb(0 0 0 / 40%);
     font-family: 'Montserrat', sans-serif;
     background-image: url('sky-background.jpg');
-    /*I can't get rid of the 'Contras Errors' on wave.webaim.org*/
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
